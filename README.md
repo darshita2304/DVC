@@ -21,3 +21,19 @@ git init
 ``` 
 touch README.md
 ```
+
+```
+pip install -r requirements.txt
+```
+
+```
+dvc init
+```
+
+```
+dvc repro
+```
+
+```
+dvc dag
+```
