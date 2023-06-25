@@ -37,3 +37,23 @@ dvc repro
 ```
 dvc dag
 ```
+
+```
+dvc add <file name>
+```
+
+```
+git add <filename>
+```
+
+```
+git commit -m "fiel added"
+```
+
+```
+dvc remote add myremote <location>
+```
+
+```
+dvc push
+```
